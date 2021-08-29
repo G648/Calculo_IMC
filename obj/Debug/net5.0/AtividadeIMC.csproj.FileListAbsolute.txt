@@ -1,0 +1,16 @@
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.exe
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.deps.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.runtimeconfig.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.runtimeconfig.dev.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\ref\AtividadeIMC.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\bin\Debug\net5.0\AtividadeIMC.pdb
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.csproj.AssemblyReference.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.AssemblyInfoInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.AssemblyInfo.cs
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.csproj.CoreCompileInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\ref\AtividadeIMC.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.pdb
+C:\Users\cezar\Documents\programação C-sharp\AtividadeIMC\obj\Debug\net5.0\AtividadeIMC.genruntimeconfig.cache
